@@ -1,0 +1,5 @@
+com\example\restapi\dto\ProductDTO.class
+com\example\restapi\controller\ProductController.class
+com\example\restapi\model\Product.class
+com\example\restapi\service\ProductService.class
+com\example\restapi\repository\ProductRepository.class
